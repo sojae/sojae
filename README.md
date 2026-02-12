@@ -1,5 +1,5 @@
 <h2>소재현(Jaehyun so)</h2>
-<p><b>Frontend Engineer</b>Enjoy the process. Enjoy the life.</p>
+<p><b>Frontend Engineer</b> Enjoy the process. Enjoy the life.</p>
 
 
 ## 🛠 Tech Stack
