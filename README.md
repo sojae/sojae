@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Jaehyun So
-Frontend Engineer  
+<p align="left">Frontend Engineer  </p>
+
+<!--
 ## 🛠 Tech Stack
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
@@ -20,5 +22,10 @@ Frontend Engineer
 ### DevOps / Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+-->
 ## 🤝 Contact
+- Email: [socowjh@gmail.com](mailto:socowjh@gmail.com)
+- LinkedIn: [Jaehyun So](https://www.linkedin.com/in/jaehyun-so-dev)
+
+![github contribution grid animation](https://raw.githubusercontent.com/socow/socow/output/github-contribution-grid-snake.svg)
 
