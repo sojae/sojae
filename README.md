@@ -17,7 +17,7 @@
 <!--
 -->
 ## 📫 Contact
-<b>Email</b>: [socowjh@gmail.com](mailto:socowjh@gmail.com)<br/>
+<b>Email</b>: [sojae.dev@gmail.com](mailto:sojae.dev@gmail.com)<br/>
 <b>LinkedIn</b>: [Jaehyun So](https://www.linkedin.com/in/jaehyun-so-dev)
 
 ![github contribution grid animation](https://raw.githubusercontent.com/sojae/sojae/output/github-contribution-grid-snake.svg)
